@@ -1,0 +1,11 @@
+django
+selenium
+pandas
+redis
+redislite
+pyarrow
+djangorestframework
+datetime
+django-cors-headers
+apscheduler
+zipfile36
